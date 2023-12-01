@@ -40,3 +40,6 @@ Nuple will be installable on any Intel based computer (6 gen or above), as well 
 - Movidius NCS
 - FOCI IoT device
 - Intel based computer (6 gen or above)
+
+  [![image](https://github.com/cabelo/nurse_please/assets/675645/0dbf5e84-3471-48dd-b36d-ecd8ba15ee9c)](https://www.youtube.com/watch?v=1qlT8VT1OMY)
+
